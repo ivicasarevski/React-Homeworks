@@ -107,7 +107,7 @@ class Calculator extends React.Component {
                 
                 
                 <div className="result">
-                    RESULT:: { this.state.result } 
+                    RESULT: { this.state.result } 
                 </div>
                 
             </div>
