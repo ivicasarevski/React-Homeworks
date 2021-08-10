@@ -1,0 +1,57 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.increment-btn {
+  background-color: blueviolet;
+  color: lightgoldenrodyellow;
+  margin-right: 40px;
+  border-radius: 18px;
+  padding: 10px;
+}
+
+.decrement-btn {
+  background-color: blueviolet;
+  color: lightgoldenrodyellow;
+  margin-right: 40px;
+  border-radius: 18px;
+  padding: 10px;
+}
+
+.result {
+  justify-content: center;
+  display: flex;
+  margin-top: 40px;
+  font-size: 30px;
+  font-family: cursive;
+}
+
+.plus-btn {
+  background-color: blueviolet;
+  color: lightgoldenrodyellow;
+  margin: 20px;
+  border-radius: 18px;
+  padding: 10px;
+}
+
+.minus-btn {
+  background-color: blueviolet;
+  color: lightgoldenrodyellow;
+  margin: 20px;
+  border-radius: 18px;
+  padding: 10px;
+}
+
+.calculate-btn {
+  background-color: blueviolet;
+  color: lightgoldenrodyellow;
+  margin: 20px;
+  border-radius: 18px;
+  padding: 10px;
+}
